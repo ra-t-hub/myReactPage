@@ -3,6 +3,5 @@ This is a website which is built with the inspiration of React components in Net
 
 My users website
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Clone this repo
+Run the app
